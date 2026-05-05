@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *'  # runs every hour on the dot
   workflow_dispatch:       # lets you trigger it manually too
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   fetch-rates:
     runs-on: ubuntu-latest
@@ -31,3 +34,4 @@ jobs:
           git add funding_rates.json funding_rates.csv
           git diff --staged --quiet || git commit -m "Update funding rates $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
+          

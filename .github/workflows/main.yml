@@ -1,0 +1,33 @@
+name: Funding Rates Pipeline
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # runs every hour on the dot
+  workflow_dispatch:       # lets you trigger it manually too
+
+jobs:
+  fetch-rates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pandas tabulate
+
+      - name: Run funding rates script
+        run: python funding_rates.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add funding_rates.json funding_rates.csv
+          git diff --staged --quiet || git commit -m "Update funding rates $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

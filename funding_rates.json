@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Crypto perpetual futures funding rates aggregated from Binance, Bybit, and OKX",
-    "updated_utc": "2026-06-05T03:33:53.600742+00:00",
+    "updated_utc": "2026-06-05T08:02:22.383754+00:00",
     "sources": [
       "Binance",
       "Bybit",
@@ -25,91 +25,91 @@
     {
       "asset": "BTC",
       "exchange": "OKX",
-      "rate_%": 0.002491,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-05T03:33:51.502394+00:00",
+      "rate_%": 0.001883,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-05T08:02:19.906060+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ETH",
       "exchange": "OKX",
-      "rate_%": 0.004581,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-05T03:33:51.735477+00:00",
+      "rate_%": 0.002542,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-05T08:02:20.164716+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "SOL",
       "exchange": "OKX",
-      "rate_%": -0.009432,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-05T03:33:51.967154+00:00",
-      "signal": "\u26aa NORMAL",
+      "rate_%": -0.016376,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-05T08:02:20.422844+00:00",
+      "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     },
     {
       "asset": "BNB",
       "exchange": "OKX",
-      "rate_%": -0.006751,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-05T03:33:52.186627+00:00",
+      "rate_%": -0.005527,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-05T08:02:20.774906+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "XRP",
       "exchange": "OKX",
-      "rate_%": -0.012544,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-05T03:33:52.409405+00:00",
-      "signal": "\ud83d\udd35 LOW NEGATIVE",
+      "rate_%": -0.005858,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-05T08:02:21.057993+00:00",
+      "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "DOGE",
       "exchange": "OKX",
-      "rate_%": -0.001107,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-05T03:33:52.635333+00:00",
+      "rate_%": -0.002843,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-05T08:02:21.319850+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "AVAX",
       "exchange": "OKX",
-      "rate_%": -0.007093,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-05T03:33:52.903373+00:00",
+      "rate_%": 0.01,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-05T08:02:21.596373+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "LINK",
       "exchange": "OKX",
-      "rate_%": -0.010077,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-05T03:33:53.133841+00:00",
-      "signal": "\ud83d\udd35 LOW NEGATIVE",
+      "rate_%": 0.000247,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-05T08:02:21.862618+00:00",
+      "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ARB",
       "exchange": "OKX",
-      "rate_%": -0.020315,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-05T03:33:53.368567+00:00",
-      "signal": "\ud83d\udd35 LOW NEGATIVE",
+      "rate_%": -0.002987,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-05T08:02:22.123516+00:00",
+      "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "OP",
       "exchange": "OKX",
-      "rate_%": -0.022193,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-05T03:33:53.590122+00:00",
-      "signal": "\ud83d\udd35 LOW NEGATIVE",
+      "rate_%": 0.004924,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-05T08:02:22.372596+00:00",
+      "signal": "\u26aa NORMAL",
       "spread_%": null
     }
   ]

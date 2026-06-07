@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Crypto perpetual futures funding rates aggregated from Binance, Bybit, and OKX",
-    "updated_utc": "2026-06-07T00:00:02.424179+00:00",
+    "updated_utc": "2026-06-07T04:46:24.203922+00:00",
     "sources": [
       "Binance",
       "Bybit",
@@ -25,91 +25,91 @@
     {
       "asset": "BTC",
       "exchange": "OKX",
-      "rate_%": -0.001271,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-06-07T00:00:00.663130+00:00",
+      "rate_%": -0.009993,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-06-07T04:46:22.080151+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ETH",
       "exchange": "OKX",
-      "rate_%": -0.011016,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-06-07T00:00:00.854491+00:00",
+      "rate_%": -0.016045,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-06-07T04:46:22.302248+00:00",
       "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     },
     {
       "asset": "SOL",
       "exchange": "OKX",
-      "rate_%": -0.006965,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-06-07T00:00:01.039065+00:00",
-      "signal": "\u26aa NORMAL",
+      "rate_%": -0.016676,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-06-07T04:46:22.524045+00:00",
+      "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     },
     {
       "asset": "BNB",
       "exchange": "OKX",
-      "rate_%": -0.007474,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-06-07T00:00:01.230471+00:00",
+      "rate_%": -0.003648,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-06-07T04:46:22.756461+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "XRP",
       "exchange": "OKX",
-      "rate_%": -0.011091,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-06-07T00:00:01.426415+00:00",
-      "signal": "\ud83d\udd35 LOW NEGATIVE",
+      "rate_%": 0.007858,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-06-07T04:46:23.034808+00:00",
+      "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "DOGE",
       "exchange": "OKX",
-      "rate_%": -0.008152,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-06-07T00:00:01.647276+00:00",
+      "rate_%": -0.003791,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-06-07T04:46:23.264998+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "AVAX",
       "exchange": "OKX",
-      "rate_%": 0.001528,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-06-07T00:00:01.836600+00:00",
+      "rate_%": 0.000486,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-06-07T04:46:23.491997+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "LINK",
       "exchange": "OKX",
-      "rate_%": -0.011686,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-06-07T00:00:02.030271+00:00",
-      "signal": "\ud83d\udd35 LOW NEGATIVE",
+      "rate_%": -0.000547,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-06-07T04:46:23.721838+00:00",
+      "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ARB",
       "exchange": "OKX",
-      "rate_%": -0.01342,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-06-07T00:00:02.224062+00:00",
-      "signal": "\ud83d\udd35 LOW NEGATIVE",
+      "rate_%": -0.003353,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-06-07T04:46:23.949633+00:00",
+      "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "OP",
       "exchange": "OKX",
-      "rate_%": -0.022075,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-06-07T00:00:02.411866+00:00",
-      "signal": "\ud83d\udd35 LOW NEGATIVE",
+      "rate_%": 0.00078,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-06-07T04:46:24.192437+00:00",
+      "signal": "\u26aa NORMAL",
       "spread_%": null
     }
   ]

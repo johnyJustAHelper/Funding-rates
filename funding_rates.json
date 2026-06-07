@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Crypto perpetual futures funding rates aggregated from Binance, Bybit, and OKX",
-    "updated_utc": "2026-06-07T04:46:24.203922+00:00",
+    "updated_utc": "2026-06-07T08:21:00.217766+00:00",
     "sources": [
       "Binance",
       "Bybit",
@@ -25,91 +25,91 @@
     {
       "asset": "BTC",
       "exchange": "OKX",
-      "rate_%": -0.009993,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-07T04:46:22.080151+00:00",
+      "rate_%": -0.007695,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-07T08:20:58.013920+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ETH",
       "exchange": "OKX",
-      "rate_%": -0.016045,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-07T04:46:22.302248+00:00",
+      "rate_%": -0.013395,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-07T08:20:58.254054+00:00",
       "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     },
     {
       "asset": "SOL",
       "exchange": "OKX",
-      "rate_%": -0.016676,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-07T04:46:22.524045+00:00",
+      "rate_%": -0.026803,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-07T08:20:58.494287+00:00",
       "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     },
     {
       "asset": "BNB",
       "exchange": "OKX",
-      "rate_%": -0.003648,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-07T04:46:22.756461+00:00",
+      "rate_%": -0.002081,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-07T08:20:58.739583+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "XRP",
       "exchange": "OKX",
-      "rate_%": 0.007858,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-07T04:46:23.034808+00:00",
+      "rate_%": -0.004745,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-07T08:20:58.990949+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "DOGE",
       "exchange": "OKX",
-      "rate_%": -0.003791,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-07T04:46:23.264998+00:00",
-      "signal": "\u26aa NORMAL",
+      "rate_%": -0.014977,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-07T08:20:59.228385+00:00",
+      "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     },
     {
       "asset": "AVAX",
       "exchange": "OKX",
-      "rate_%": 0.000486,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-07T04:46:23.491997+00:00",
-      "signal": "\u26aa NORMAL",
+      "rate_%": -0.013573,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-07T08:20:59.482877+00:00",
+      "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     },
     {
       "asset": "LINK",
       "exchange": "OKX",
-      "rate_%": -0.000547,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-07T04:46:23.721838+00:00",
+      "rate_%": -0.005984,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-07T08:20:59.729621+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ARB",
       "exchange": "OKX",
-      "rate_%": -0.003353,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-07T04:46:23.949633+00:00",
+      "rate_%": -0.009666,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-07T08:20:59.963699+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "OP",
       "exchange": "OKX",
-      "rate_%": 0.00078,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-06-07T04:46:24.192437+00:00",
-      "signal": "\u26aa NORMAL",
+      "rate_%": -0.014974,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-06-07T08:21:00.206093+00:00",
+      "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     }
   ]

@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Crypto perpetual futures funding rates aggregated from Binance, Bybit, and OKX",
-    "updated_utc": "2026-07-02T22:11:40.831112+00:00",
+    "updated_utc": "2026-07-03T00:00:33.230484+00:00",
     "sources": [
       "Binance",
       "Bybit",
@@ -26,80 +26,80 @@
       "asset": "BTC",
       "exchange": "OKX",
       "rate_%": 0.01,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-07-02T22:11:38.351086+00:00",
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-07-03T00:00:30.693232+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ETH",
       "exchange": "OKX",
-      "rate_%": 0.005601,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-07-02T22:11:38.619556+00:00",
+      "rate_%": 0.00368,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-07-03T00:00:30.968808+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "SOL",
       "exchange": "OKX",
-      "rate_%": 0.002935,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-07-02T22:11:38.916895+00:00",
+      "rate_%": 0.004316,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-07-03T00:00:31.232464+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "BNB",
       "exchange": "OKX",
-      "rate_%": -0.004549,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-07-02T22:11:39.219704+00:00",
+      "rate_%": -0.003698,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-07-03T00:00:31.517199+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "XRP",
       "exchange": "OKX",
-      "rate_%": 0.001596,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-07-02T22:11:39.500196+00:00",
+      "rate_%": -0.002962,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-07-03T00:00:31.793734+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "DOGE",
       "exchange": "OKX",
-      "rate_%": 0.009109,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-07-02T22:11:39.764270+00:00",
+      "rate_%": 0.008073,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-07-03T00:00:32.095108+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "AVAX",
       "exchange": "OKX",
-      "rate_%": -0.004065,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-07-02T22:11:40.041324+00:00",
+      "rate_%": 0.003203,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-07-03T00:00:32.386807+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "LINK",
       "exchange": "OKX",
-      "rate_%": 0.003668,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-07-02T22:11:40.305668+00:00",
+      "rate_%": 0.007345,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-07-03T00:00:32.647933+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ARB",
       "exchange": "OKX",
-      "rate_%": 0.004241,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-07-02T22:11:40.562157+00:00",
+      "rate_%": 0.003032,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-07-03T00:00:32.930961+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
@@ -107,8 +107,8 @@
       "asset": "OP",
       "exchange": "OKX",
       "rate_%": 0.01,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-07-02T22:11:40.820127+00:00",
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-07-03T00:00:33.219313+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     }

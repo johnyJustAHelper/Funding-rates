@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Crypto perpetual futures funding rates aggregated from Binance, Bybit, and OKX",
-    "updated_utc": "2026-10-30T21:18:44.093883+00:00",
+    "updated_utc": "2026-10-31T01:21:25.298768+00:00",
     "sources": [
       "Binance",
       "Bybit",
@@ -25,90 +25,90 @@
     {
       "asset": "BTC",
       "exchange": "OKX",
-      "rate_%": 0.01,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-10-30T21:18:42.122693+00:00",
+      "rate_%": 0.009467,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-10-31T01:21:23.385467+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ETH",
       "exchange": "OKX",
-      "rate_%": -0.013173,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-10-30T21:18:42.326838+00:00",
-      "signal": "\ud83d\udd35 LOW NEGATIVE",
+      "rate_%": -0.007793,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-10-31T01:21:23.614206+00:00",
+      "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "SOL",
       "exchange": "OKX",
-      "rate_%": -0.005572,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-10-30T21:18:42.550981+00:00",
+      "rate_%": -0.009505,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-10-31T01:21:23.816772+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "BNB",
       "exchange": "OKX",
-      "rate_%": -0.006677,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-10-30T21:18:42.773294+00:00",
-      "signal": "\u26aa NORMAL",
+      "rate_%": -0.01249,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-10-31T01:21:24.016961+00:00",
+      "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     },
     {
       "asset": "XRP",
       "exchange": "OKX",
-      "rate_%": -0.019353,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-10-30T21:18:42.981292+00:00",
-      "signal": "\ud83d\udd35 LOW NEGATIVE",
+      "rate_%": -0.003462,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-10-31T01:21:24.234012+00:00",
+      "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "DOGE",
       "exchange": "OKX",
-      "rate_%": 0.007384,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-10-30T21:18:43.217277+00:00",
+      "rate_%": 0.009264,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-10-31T01:21:24.440695+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "AVAX",
       "exchange": "OKX",
-      "rate_%": 0.003427,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-10-30T21:18:43.430630+00:00",
+      "rate_%": -0.001868,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-10-31T01:21:24.650297+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "LINK",
       "exchange": "OKX",
-      "rate_%": -0.015274,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-10-30T21:18:43.639192+00:00",
-      "signal": "\ud83d\udd35 LOW NEGATIVE",
+      "rate_%": 0.002007,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-10-31T01:21:24.852275+00:00",
+      "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ARB",
       "exchange": "OKX",
-      "rate_%": 0.008688,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-10-30T21:18:43.851065+00:00",
+      "rate_%": -0.003634,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-10-31T01:21:25.063946+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "OP",
       "exchange": "OKX",
-      "rate_%": -0.028849,
-      "next_funding": "00:00 UTC",
-      "fetched_at": "2026-10-30T21:18:44.082980+00:00",
+      "rate_%": -0.049376,
+      "next_funding": "08:00 UTC",
+      "fetched_at": "2026-10-31T01:21:25.292404+00:00",
       "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     }

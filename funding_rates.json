@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "Crypto perpetual futures funding rates aggregated from Binance, Bybit, and OKX",
-    "updated_utc": "2026-11-15T07:27:08.213426+00:00",
+    "updated_utc": "2026-11-15T15:12:48.510767+00:00",
     "sources": [
       "Binance",
       "Bybit",
@@ -25,90 +25,90 @@
     {
       "asset": "BTC",
       "exchange": "OKX",
-      "rate_%": 0.000151,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-11-15T07:27:07.011560+00:00",
+      "rate_%": 0.001649,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-11-15T15:12:47.283729+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ETH",
       "exchange": "OKX",
-      "rate_%": -0.004173,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-11-15T07:27:07.143851+00:00",
+      "rate_%": -0.006539,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-11-15T15:12:47.429930+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "SOL",
       "exchange": "OKX",
-      "rate_%": -0.007732,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-11-15T07:27:07.274774+00:00",
-      "signal": "\u26aa NORMAL",
+      "rate_%": -0.018282,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-11-15T15:12:47.564823+00:00",
+      "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     },
     {
       "asset": "BNB",
       "exchange": "OKX",
-      "rate_%": 0.003376,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-11-15T07:27:07.407927+00:00",
+      "rate_%": -0.001252,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-11-15T15:12:47.697036+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "XRP",
       "exchange": "OKX",
-      "rate_%": -0.002833,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-11-15T07:27:07.542582+00:00",
+      "rate_%": -0.008938,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-11-15T15:12:47.826302+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "DOGE",
       "exchange": "OKX",
-      "rate_%": -0.001298,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-11-15T07:27:07.674093+00:00",
-      "signal": "\u26aa NORMAL",
+      "rate_%": -0.014942,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-11-15T15:12:47.969817+00:00",
+      "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     },
     {
       "asset": "AVAX",
       "exchange": "OKX",
-      "rate_%": -0.002216,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-11-15T07:27:07.806293+00:00",
-      "signal": "\u26aa NORMAL",
+      "rate_%": -0.016907,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-11-15T15:12:48.101332+00:00",
+      "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     },
     {
       "asset": "LINK",
       "exchange": "OKX",
-      "rate_%": -0.00068,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-11-15T07:27:07.939029+00:00",
+      "rate_%": -0.002167,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-11-15T15:12:48.235227+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "ARB",
       "exchange": "OKX",
-      "rate_%": 0.003193,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-11-15T07:27:08.073004+00:00",
+      "rate_%": -0.002701,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-11-15T15:12:48.372364+00:00",
       "signal": "\u26aa NORMAL",
       "spread_%": null
     },
     {
       "asset": "OP",
       "exchange": "OKX",
-      "rate_%": -0.026116,
-      "next_funding": "08:00 UTC",
-      "fetched_at": "2026-11-15T07:27:08.203364+00:00",
+      "rate_%": -0.015464,
+      "next_funding": "16:00 UTC",
+      "fetched_at": "2026-11-15T15:12:48.502775+00:00",
       "signal": "\ud83d\udd35 LOW NEGATIVE",
       "spread_%": null
     }
